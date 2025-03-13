@@ -1,0 +1,43 @@
+body{
+    background-color: #320505;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.ColorHeader{
+    background-color: rgb(213, 186, 149);
+    color: #7a4406;
+    
+    
+}
+
+.ColorDivisor{
+    background-color: #330404;
+    color: antiquewhite;
+    padding: auto;
+    
+}
+.ColorDivisorBlanco{
+    background-color: #aca28d;
+    color: rgb(12, 10, 6);
+    padding: auto;
+    
+}
+
+.colorRGB{
+    color: #7a4406;
+
+}
+
+.ColorDivisorConTextoCentrado{
+    background-color: #330404;
+    color: antiquewhite;
+    padding: auto;
+    text-align: center;
+    
+}
+
+.Centrar{
+    text-align: center;
+}
